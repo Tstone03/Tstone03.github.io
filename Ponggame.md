@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: Portfolio pong game Pic..png
 title: "Pong Game"
 date: 2024
 published: true
