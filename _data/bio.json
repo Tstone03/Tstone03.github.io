@@ -7,9 +7,9 @@
     "phone": "502-388-9663",
     "website": "https://Tstoneo3.github.io",
     "summary": "I am studying for a computer information science degree at Sullivan University. I am expected to graduate in June, 2024.",
-    "location": { "address": "", "postalCode": "40218", "city": "Louisville", "countryCode": "USA", "region": "kentucky" },
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "Tstoneo3", "url": "http://github.com/Tstone03" },
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
@@ -25,7 +25,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C#", "SQL", "Azure" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
     },
     {
       "name": "Toolsets/OS",
@@ -34,10 +34,10 @@
   ],
   "education": [
     {
-      "institution": "Sullivan Unniversity, Louisville, KY",
-      "area": "Computer Science (expected Spring, 2024)",
-      "studyType": "Associate",
-      "startDate": "2022-09-01",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,28 +45,41 @@
   ],
   "work": [
     {
-      "company": "Sherwin Williams",
-      "position": "Customer Service Specialist",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
       "website": "",
-      "startDate": "2020-08-01",
+      "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "Support customers",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "",
-        ""
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      
-      
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Sigma Alpha Epsilon Fraternity"
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Philantrophy",
-        ""
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
