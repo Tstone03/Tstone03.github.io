@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: Portfolio pong game Pic..png
+image: img/ponggamepic..png
 title: "Pong Game"
 date: 2024
 published: true
