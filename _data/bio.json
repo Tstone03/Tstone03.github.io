@@ -7,7 +7,7 @@
     "phone": "502-388-9663",
     "website": "https://Tstoneo3.github.io",
     "summary": "I am studying for a computer information science degree at Sullivan University. I am expected to graduate in June, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "90218", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
@@ -25,7 +25,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C#", "SQL", "Javascript", "Azure", "Cloud" ]
     },
     {
       "name": "Toolsets/OS",
@@ -34,10 +34,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Sullivan University, Louisville, KY",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "Associate",
+      "startDate": "2022-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,12 +45,12 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Sherwin Williams",
+      "position": "Customer Support Specialist",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Support Customers",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
